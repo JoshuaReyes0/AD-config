@@ -6,10 +6,6 @@
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -32,15 +28,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-
-
-
-<img src="https://i.imgur.com/kCw8Jmn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/YqViXpu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/fVNsDEg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
-
 </p>
 <p>
 <img src="https://i.imgur.com/6uuyCnL.png" height="50%" width="50%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/k0cPepk.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
@@ -223,23 +210,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 </p>
 <br /><p>
-<img src="https://i.imgur.com/kCw8Jmn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YqViXpu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
   - Toggle on Domain
   - Type in your domain.com
-
+  - Don't click "OK" yet
 </p>
 <br /><p>
-<img src="https://i.imgur.com/RFuLT9s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-  - Create a fake user
-  - Remember the user for future login
-  - Don't click "OK" yet
-
 </p>
 <br /><p>
 <img src="https://i.imgur.com/D2BU3cD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
