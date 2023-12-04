@@ -131,7 +131,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 </p>
 <br /><p>
-<img src="https://i.imgur.com/vjF1xoq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vjF1xoq.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -167,11 +167,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/IAo0Yho.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/XIogS5T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/k3PBEJs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/La4XgtT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/L908Hnm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IAo0Yho.png" height="20%" width="20%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/XIogS5T.png" height="20%" width="20%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/k3PBEJs.png" height="20%" width="20%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/La4XgtT.png" height="20%" width="20%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/L908Hnm.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -255,7 +251,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 
   - Click on Add
-  - Type in Text box, "Domain Users".
+  - Type in the Text box, "Domain Users".
 
 </p>
 <br /><p>
